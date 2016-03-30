@@ -3,7 +3,7 @@
   "description": "A wrapper to load, get and insert handlebars templates",
   "main": "dist/hbLoader.min.js",
   "dependencies": {
-    "handlebars": "~3.0.0"
+    "handlebars": "^3.0.x"
   },
   "authors": [
     "Khary Mallea <KharyMallea@gmail.com> (http://khary.co/)"
