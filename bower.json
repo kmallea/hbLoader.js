@@ -1,0 +1,20 @@
+{
+  "name": "hbloader-js",
+  "description": "A wrapper to load, get and insert handlebars templates",
+  "main": "index.js",
+  "authors": [
+    "Khary Mallea <KharyMallea@gmail.com> (http://khary.co/)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kmallea/hbloader-js",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

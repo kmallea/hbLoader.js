@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/kmallea/hbLoader.js/issues"
   },
-  "homepage": "https://github.com/kmallea/hbLoader.js",
+  "homepage": "https://github.com/kmallea/hbloader-js",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-jshint": "^1.0.0",
