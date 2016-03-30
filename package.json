@@ -1,0 +1,24 @@
+{
+  "name": "hbLoader.js",
+  "version": "0.0.5",
+  "description": "A wrapper to load, get and insert handlebars templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kmallea/hbLoader.js.git"
+  },
+  "author": "Khary Mallea <KharyMallea@gmail.com> (http://khary.co/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmallea/hbLoader.js/issues"
+  },
+  "homepage": "https://github.com/kmallea/hbLoader.js",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
