@@ -10,6 +10,8 @@ hbLoader simplifies the process of loading in and using handlebars templates wit
 ---
 ##### Old fasion
 Download the package and include in your project
+
+[Download hbLoader.js](https://github.com/kmallea/hbloader-js/releases)
 ```
     <script src="js/hbLoader.min.js"></script>
 ```
